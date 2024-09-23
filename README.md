@@ -5,5 +5,6 @@ First Repository
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+
+## About Me
+Hello! I'm currently a junior at the University of Iowa majoring in Business Analytics and Information Systems with a minor in Computer Science. 
